@@ -1,5 +1,9 @@
+body {
+  font-size: 0.8rem;
+}
+
 .resume__container {
-  width: 800px;
+  max-width: 850px;
   padding: 1em;
 }
 
