@@ -1,16 +1,15 @@
-body {
-  font-size: 0.8rem;
-}
-
 .resume__container {
-  max-width: 850px;
-  padding: 1em;
+    max-width: 60rem;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 header {
-  border-bottom: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .muted-left-border {
-  border-left: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    padding-left: 2rem;
 }
