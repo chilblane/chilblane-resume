@@ -1,8 +1,18 @@
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+        'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+        'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
 .resume__container {
     max-width: 60rem;
     padding: 1em;
     margin-left: auto;
     margin-right: auto;
+}
+
+.resume__title {
+    letter-spacing: -0.05em;
 }
 
 header {
